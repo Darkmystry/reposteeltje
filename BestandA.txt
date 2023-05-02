@@ -1,1 +1,12 @@
 Hier is de eerste regel
+
+dir = current directory
+pmd = current directory chain
+cd = naar een directory navigeren
+
+git init = repository maken
+git status = 
+git add . = huidige mappen klaarzetten voor comit
+
+git config --global user.email "robvangurp91@gmail.com"
+git config --global user.name "Darkmystry"
