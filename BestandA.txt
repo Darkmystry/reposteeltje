@@ -1,12 +1,28 @@
-Hier is de eerste regel
-
+--- TERMEN ---
 dir = current directory
 pmd = current directory chain
 cd = naar een directory navigeren
 
+--- COMMANDS ---
 git init = repository maken
 git status = 
 git add . = huidige mappen klaarzetten voor comit
+git log = overzicht van commits
+git commit = een commit maken
+	git commit -m "naam commit"
+git push = delen online
+	- eerste push = 
 
+--- VIM MODE ---
+VIM = is word mode in de command
+2 modes: command mode (escape) en insert mode (insert)
+- command mode is geen nieuwe regels, maar onderin commands
+- insert mode is regels typen
+Uit VIM komen = command mode > "wq
+
+--- GITHUB INLOG
 git config --global user.email "robvangurp91@gmail.com"
 git config --global user.name "Darkmystry"
+git push -u origin master
+
+
